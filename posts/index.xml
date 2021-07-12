@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wuzi Codes</title>
-    <link>https://wuzi.github.io/posts/</link>
+    <link>https://wuzi.dev/posts/</link>
     <description>Recent content in Posts on Wuzi Codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Wuzi</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 23:30:00 +0000</lastBuildDate><atom:link href="https://wuzi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 23:30:00 +0000</lastBuildDate><atom:link href="https://wuzi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a 2D game including all the assets (part 1)</title>
-      <link>https://wuzi.github.io/posts/creating-a-2d-game-including-all-the-assets-part-1/</link>
+      <link>https://wuzi.dev/posts/creating-a-2d-game-including-all-the-assets-part-1/</link>
       <pubDate>Sun, 11 Jul 2021 23:30:00 +0000</pubDate>
       
-      <guid>https://wuzi.github.io/posts/creating-a-2d-game-including-all-the-assets-part-1/</guid>
+      <guid>https://wuzi.dev/posts/creating-a-2d-game-including-all-the-assets-part-1/</guid>
       <description>Lately I&amp;rsquo;ve been very interested in drawing but lacked the content of what to draw, I was drawing some random geometric shapes, fruits and doodles, but I wanted something more meaningful, so I had the idea to do something that I always enjoy doing, create a multiplayer game. I&amp;rsquo;ve made plenty of games in my life, but always I relied on third-party assets, so this would be perfect, I would to get to draw a lot while making a game.</description>
     </item>
     
