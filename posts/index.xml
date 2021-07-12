@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wuzi Codes</title>
+    <link>https://wuzi.github.io/posts/</link>
+    <description>Recent content in Posts on Wuzi Codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Wuzi</copyright>
+    <lastBuildDate>Sun, 11 Jul 2021 23:30:00 +0000</lastBuildDate><atom:link href="https://wuzi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey</title>
+      <link>https://wuzi.github.io/posts/test/</link>
+      <pubDate>Sun, 11 Jul 2021 23:30:00 +0000</pubDate>
+      
+      <guid>https://wuzi.github.io/posts/test/</guid>
+      <description>Random stuff here</description>
+    </item>
+    
+  </channel>
+</rss>
