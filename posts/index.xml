@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Wuzi</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 23:30:00 +0000</lastBuildDate><atom:link href="https://wuzi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 17:06:00 +0000</lastBuildDate><atom:link href="https://wuzi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History of Labirong</title>
+      <link>https://wuzi.dev/posts/history-of-labirong/</link>
+      <pubDate>Tue, 03 May 2022 17:06:00 +0000</pubDate>
+      
+      <guid>https://wuzi.dev/posts/history-of-labirong/</guid>
+      <description>For those curious why I have so many labyrinth stuff (mainly named labirong) on my GitHub, I&amp;rsquo;m going to share the history of labirong and some pictures of its progress throughout the years
+It all started back in 2017, my friend was on his last years of computer science course and received a home task to create a script that would read a .txt file containing 0s and 1s and display a block on the screen where it was 1 and a blank space where it was 0.</description>
+    </item>
+    
     <item>
       <title>Creating a 2D game including all the assets (part 1)</title>
       <link>https://wuzi.dev/posts/creating-a-2d-game-including-all-the-assets-part-1/</link>
